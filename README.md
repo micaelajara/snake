@@ -10,4 +10,8 @@ Hi! This is my first web game in vanilla Javascript. I choose the  (g)old **Snak
 
 ## How to play
 
-Click in [this link ](https://www.youtube.com/) and play with the keys buttons of the keyboard. **You only have one live!**
+Click in [this link ](https://micaelajara.github.io/snake/) and play with the keys buttons of the keyboard. **You only have one live!**
+
+## AUTHOR 
+
+[Micaela Jara] (https://www.linkedin.com/in/micaela-jara/)  
