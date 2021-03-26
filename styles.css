@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto"; 
+    background: #2d572c;
+    background: radial-gradient( #D4D3DD, #2d572c);
+}
+
+canvas {
+    border: 3px solid #ffd700;
+    border-radius: 10px;
+} 
+p{
+    margin: 0;
+}
+h1{
+    text-transform: uppercase;
+    letter-spacing: 3px; 
+}
